@@ -1,2 +1,2 @@
 #Notas
-Este es un repositorio de notas 
+Este es un repositorio de notas/nuevas notas 
